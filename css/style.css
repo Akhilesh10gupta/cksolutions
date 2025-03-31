@@ -270,8 +270,9 @@ btn-info:hover {
 }
 .gtco-banner-area a {
   display: inline;
-  padding: 10px 30px;
+  padding: 5px 30px;
   padding-right: 5px;
+  margin-bottom: 10px;
 }
 .gtco-banner-area .col-md-6 .card .card-img-top {
   max-width: 587px;
@@ -297,6 +298,7 @@ btn-info:hover {
     max-width: 502px;
   }
 }
+
 
 .gtco-feature {
   margin-top: 100px;
